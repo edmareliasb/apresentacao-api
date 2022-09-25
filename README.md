@@ -13,5 +13,7 @@ Para abrir o console H2:
 http://localhost:8080/h2-console/login.jsp
 
 url:jdbc:h2:mem:ecommerce
+
 username: sa
+
 password: password
